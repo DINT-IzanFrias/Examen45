@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\examen45Izan.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\examen45Izan_Content.g.cs
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\examen45Izan_MarkupCompile.cache
+C:\Users\alumno\Desktop\examen\examen45Izan\obj\Debug\net6.0-windows\examen45Izan_MarkupCompile.lref
